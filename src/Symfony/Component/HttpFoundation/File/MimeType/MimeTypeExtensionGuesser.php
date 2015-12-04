@@ -543,6 +543,7 @@ class MimeTypeExtensionGuesser implements ExtensionGuesserInterface
         'application/x-gnumeric' => 'gnumeric',
         'application/x-gramps-xml' => 'gramps',
         'application/x-gtar' => 'gtar',
+        'application/x-gzip' => 'gz',
         'application/x-hdf' => 'hdf',
         'application/x-install-instructions' => 'install',
         'application/x-iso9660-image' => 'iso',
